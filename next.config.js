@@ -3,7 +3,7 @@ const withOffline = require('next-offline');
 const nextConfig = {
 	poweredByHeader: false,
 	swcMinify: true,
-  output: "standalone",
+  output: "export",
   basePath: "",
   images: {
     unoptimized: true,
