@@ -4,7 +4,7 @@ const nextConfig = {
 	poweredByHeader: false,
 	swcMinify: true,
   output: "export",
-  basePath: "/",
+  basePath: "",
   images: {
     unoptimized: true,
   },
