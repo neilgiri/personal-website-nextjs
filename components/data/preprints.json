@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "author": "Neil Giridharan, Heidi Howard, Ittai Abraham, Natacha Crooks, and Alin Tomescu.",
+    "title": "No-Commit Proofs: Defeating Livelock in BFT",
+    "conference": "In ePrint, September 2021",
+    "links": [
+      {
+        "name": "pdf",
+        "url": "https://eprint.iacr.org/2021/1308.pdf"
+      }
+    ]
+  }
+]

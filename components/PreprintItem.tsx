@@ -1,19 +1,19 @@
 import ExtLink from './ExtLink';
 
 interface Props {
-  publication: any;
+  preprint: any;
   index: number;
 }
 
-const PublicationItem = ({ publication, index }: Props): JSX.Element => {
+const PreprintItem = ({ preprint: preprint, index }: Props): JSX.Element => {
   return (
     <div className="mt-4 mb-8">
       <p className="text-base text-gray-500">
-        <b><i>{publication.title}</i></b> <br />{publication.author}<br />
-        <a className="text-sm">{publication.conference}</a>
+        <b><i>{preprint.title}</i></b> <br />{preprint.author}<br />
+        <a className="text-sm">{preprint.conference}</a>
       </p>
       <p className="text-gray-500 flex justify-end text-sm bold">
-        {publication.links.map((linkItem: any, idx: any) => (
+        {preprint.links.map((linkItem: any, idx: any) => (
           <ExtLink href={linkItem.url} key={idx}> [{linkItem.name}] &nbsp;</ExtLink>
         ))}
       </p>
@@ -23,4 +23,4 @@ const PublicationItem = ({ publication, index }: Props): JSX.Element => {
   );
 };
 
-export default PublicationItem;
+export default PreprintItem;

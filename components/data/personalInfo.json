@@ -1,41 +1,37 @@
 {
-    "title": "Harry Potter",
-    "name": "Harry James Potter",
-    "domain":"https://nextjs-academic-theme.vercel.app/",
-    "copyright":"harrypotter.me",
-    "socialMedia": {
-        "Twitter": "https://twitter.com/",
-        "LinkedIn": "https://www.linkedin.com/",
-        "GoogleScholar": "https://scholar.google.com/"
+  "title": "Neil Giridharan",
+  "name": "Neil Giridharan",
+  "domain": "neilgiri.github.io",
+  "copyright": "neilgiri.github.io",
+  "socialMedia": {
+    "Github": "https://github.com/neilgiri",
+    "LinkedIn": "https://www.linkedin.com/in/neilgiridharan/"
+  },
+  "about": {
+    "year": "4th-year",
+    "department": {
+      "name": "Computer Science",
+      "link": "https://eecs.berkeley.edu/"
     },
-    "about": {
-        "year": "7th-year",
-        "department": {
-            "name": "Gryffindor",
-            "link": "https://harrypotter.fandom.com/wiki/Gryffindor"
-        },
-        "college": {
-            "name": "Hogwarts School of Witchcraft and Wizardry",
-            "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
-        },
-        "advisor": {
-            "name": "Albus Dumbledor",
-            "link": "https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
-        },
-        "email": "harrypotter AT MyUniversity",
-        "interest": "Defense against Dark Arts Spell; Dark Creatures"
+    "college": {
+      "name": "UC Berkeley",
+      "link": "https://www.berkeley.edu/"
     },
-    "love": "https://harrypotter.fandom.com/wiki/James_and_Lily_Potter",
-    "education": [
-        {
-            "name": "The Auror Department(2007-2008, Visiting Scholar)",
-            "link": "https://harrypotter.fandom.com/wiki/British_Auror_Office"
-        },
-        {
-            "name": "Hogwarts Primary University(1911-1988, Bachelor's in Magic)",
-            "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
-        }
-    ]
-
-
+    "advisor": {
+      "name": "Professor Natacha Crooks",
+      "link": "https://nacrooks.github.io/"
+    },
+    "fellowship": {
+      "name": "Meta PhD Research Fellowship",
+      "link": "https://research.facebook.com/fellows/giridharan_neil/"
+    },
+    "email": "giridhn AT berkeley DOT edu",
+    "interest": "Distributed systems and consensus"
+  },
+  "education": [
+    {
+      "name": "UC Berkeley (2016-2020, Bachelor of Arts in Computer Science)",
+      "link": "https://www.berkeley.edu/"
+    }
+  ]
 }

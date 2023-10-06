@@ -1,11 +1,12 @@
 [
-    {
-        "id": "MG101",
-        "name": "Introduction to magic"
-    },
-    {
-        "id": "MG102",
-        "name": "Defense against the dark arts spells"
-    }
-
+  {
+    "id": "CS294",
+    "name": "Distributed Systems and Distributed Computing",
+    "term": "Spring 2023"
+  },
+  {
+    "id": "CS194/294",
+    "name": "Decentralized Finance",
+    "term": "Fall 2021"
+  }
 ]

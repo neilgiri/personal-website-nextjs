@@ -1,106 +1,66 @@
 [
-	{
-		"id": 5,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Towards Generalized Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
-		]
-	},
-
-	{
-		"id": 4,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Rethinking Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
-		]
-	},
-
-	{
-		"id": 3,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Pushing the Limits of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
-		]
-	},
-
-	{
-		"id": 2,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Defensing Against the Dark Arts Spells based on Reductor Curse",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
-		]
-	},
-
-	{
-		"id": 1,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "A Survey of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
-		"links": [
-			{
-				"name": "pdf",
-				"url": ""
-			},
-			{
-				"name": "slides",
-				"url": ""
-			},
-			{
-				"name": "video",
-				"url": ""
-			}
-		]
-	}
+  {
+    "id": 5,
+    "author": "Neil Giridharan, Florian Suri-Payer, Matthew Ding, Heidi Howard, Ittai Abraham, and Natacha Crooks.",
+    "title": "BeeGees: Stayin' Alive in Chained BFT",
+    "conference": "In ACM PODC 2023.",
+    "links": [
+      {
+        "name": "pdf",
+        "url": "https://dl.acm.org/doi/pdf/10.1145/3583668.3594572"
+      },
+      {
+        "name": "arxiv",
+        "url": "https://arxiv.org/abs/2205.11652"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "author": "Alexander Spiegelman, Neil Giridharan, Alberto Sonnino, and Lefteris Kokoris-Kogias.",
+    "title": "Bullshark: DAG BFT Protocols Made Practical",
+    "conference": "In ACM CCS, 2022.",
+    "links": [
+      {
+        "name": "pdf",
+        "url": "https://arxiv.org/pdf/2201.05677.pdf"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "author": "Michael Whittaker, Ailidani Ailijiang, Aleksey Charapko, Murat Demirbas, Neil Giridharan, Joseph M. Hellerstein, Heidi Howard, Ion Stoica, and Adriana Szekeres.",
+    "title": "Scaling Replicated State Machines with Compartmentalization",
+    "conference": "In VLDB, 2021.",
+    "links": [
+      {
+        "name": "pdf",
+        "url": "https://mwhittaker.github.io/publications/compartmentalized_paxos.pdf"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "author": "Michael Whittaker, Neil Giridharan, Adriana Szekeres, Joseph M. Hellerstein, Heidi Howard, Faisal Nawab, and Ion Stoica.",
+    "title": "Matchmaker Paxos: A Reconfigurable Consensus Protocol",
+    "conference": "In JSys, 2021",
+    "links": [
+      {
+        "name": "pdf",
+        "url": "https://mwhittaker.github.io/publications/matchmaker_paxos.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "author": "Michael Whittaker, Neil Giridharan, Adriana Szekeres, Joseph M. Hellerstein, and Ion Stoica.",
+    "title": "A Generalized Multi-Leader State Machine Replication Tutorial",
+    "conference": "In JSys, 2021",
+    "links": [
+      {
+        "name": "pdf",
+        "url": "https://mwhittaker.github.io/publications/bipartisan_paxos.pdf"
+      }
+    ]
+  }
 ]
